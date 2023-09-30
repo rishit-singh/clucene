@@ -22,6 +22,8 @@
 # include <sys/timeb.h>
 #endif
 
+#include <ctime>
+
 CL_NS_DEF(document)
 
 class CLUCENE_EXPORT DateTools {
